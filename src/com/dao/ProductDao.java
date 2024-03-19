@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.model.Product;
 
-public interface ProductDao {
+public  {
 	//Dao package
 	    List<Product> getAllProducts();
 	    void addProduct(Product product);
